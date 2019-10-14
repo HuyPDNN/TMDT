@@ -1,2 +1,2 @@
 # TMDT
-SEMINAR
+CODE
